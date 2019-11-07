@@ -1,0 +1,3 @@
+Scrapy
+
+五大组件：Scheduler  Downloader  Spider  Item Pipeline   Scrapy Engine
